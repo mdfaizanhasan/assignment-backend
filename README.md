@@ -1,10 +1,9 @@
 # Backend Documentation
-## Trae AI
 I'll create a comprehensive documentation for the backend codebase. The documentation will cover the database schema (users and products tables), authentication system (registration, login, JWT tokens), product management (CRUD operations), and testing strategy. I'll explain the API endpoints, middleware implementation, and error handling approaches used in the system.
 
 Creating a comprehensive documentation file that explains the backend implementation, including database schema, authentication system, API endpoints, and testing strategy.
 
-Created a comprehensive DOCUMENTATION.md file in the backend directory that provides a detailed explanation of the backend implementation. The documentation covers:
+Created a comprehensive README.md file in the backend directory that provides a detailed explanation of the backend implementation. The documentation covers:
 
 - Database schema for both users and products tables
 - Authentication system including registration and login processes
